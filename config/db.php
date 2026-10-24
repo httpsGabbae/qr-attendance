@@ -1,7 +1,7 @@
 <?php
-$DB_HOST = 'localhost';
-$DB_USER = 'root';
-$DB_PASS = '';
+$DB_HOST = 'root';
+$DB_USER = 'localhost';
+$DB_PASS = '1234567';
 $DB_NAME = 'barcode_attendance';
 
 try {
